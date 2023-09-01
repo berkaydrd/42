@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: atasyure <atasyure@student.42.fr>          +#+  +:+       +#+        */
+/*   By: atasyure   <hdurdu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/20 14:57:11 by atasyure          #+#    #+#             */
 /*   Updated: 2023/07/20 14:57:13 by atasyure         ###   ########.tr       */
